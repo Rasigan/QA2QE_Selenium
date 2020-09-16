@@ -1,0 +1,8 @@
+Scenario: View Product list using Navitage to product *Rasigan
+Given: I am a Vistitor
+When: I navigate to product menu
+Then: The View product list page will be displayed
+
+
+
+Home Page > Assert Home Page > Click on Men > Click on Jackets > View Jackets > Assert the results > add negative test
